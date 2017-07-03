@@ -1,2 +1,2 @@
 # leddit-lul
-This is the a clone of reddit for Carousell project.
+This is the reddit clone app for Carousell project.
