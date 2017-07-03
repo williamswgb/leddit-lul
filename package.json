@@ -1,0 +1,23 @@
+{
+  "name": "leddit-lul",
+  "version": "1.0.0",
+  "description": "This is the reddit clone app for Carousell project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamswgb/leddit-lul.git"
+  },
+  "author": "William Surya Wijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamswgb/leddit-lul/issues"
+  },
+  "homepage": "https://github.com/williamswgb/leddit-lul#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
